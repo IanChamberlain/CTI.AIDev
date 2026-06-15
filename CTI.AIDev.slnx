@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CTI.AIDev.Runtime/CTI.AIDev.Runtime.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CTI.AIDev.Runtime.Tests/CTI.AIDev.Runtime.Tests.csproj" Id="6ad2fe67-86f5-4617-a2ec-78489d65e738" />
+  </Folder>
+</Solution>

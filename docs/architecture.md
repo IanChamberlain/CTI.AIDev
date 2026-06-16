@@ -139,7 +139,7 @@ The Agent Framework provides the structure for AI components that can reason, pl
 - Enforce profile constraints during decision‑making by consuming `IProfile`.
 - Coordinate with Orchestration for task context and model selection.
 - Use Memory for context retrieval and result storage.
-- Use Tools for all side‑effectful operations.
+- Use Tools for all side‑effecting operations.
 
 ### Agent framework characteristics
 
@@ -227,7 +227,7 @@ A typical interaction follows this flow:
 4. Agents use:
    - Runtime (`IRuntimeModelHost`) for reasoning and embeddings.
    - Memory (`IMemoryService`) for context and persistence.
-   - Tools (`ITool`) for all side‑effectful operations.
+   - Tools (`ITool`) for all side‑effecting operations.
 5. The Orchestration Layer aggregates agent results into an `IOrchestrationResult`.
 6. The UI renders the result via `IUiResultPresenter` and presents it to the user.
 7. The user reviews, approves, or corrects the output.

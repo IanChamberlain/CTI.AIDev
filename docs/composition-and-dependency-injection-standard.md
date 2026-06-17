@@ -73,7 +73,7 @@ Rules:
 Each project must provide:
 
 1. **A top‑level extension method**  
-   - Named `Add<ProjectName>(this ServiceConfigurator configurator)`
+   - Named `Add<ProjectName>Services(this ServiceConfigurator configurator)`
    - Located in the implementation project
    - Called from the composition root
 

@@ -1,8 +1,27 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="src/CTI.AIDev.Agents.Abstractions/CTI.AIDev.Agents.Abstractions.csproj" Id="7ee1d2b1-9bd8-4ab9-a672-a9e5ac716166" />
+    <Project Path="src/CTI.AIDev.Agents/CTI.AIDev.Agents.csproj" Id="57030d36-c2c4-4a69-8aa5-da84de73f414" />
+    <Project Path="src/CTI.AIDev.Memory.Abstractions/CTI.AIDev.Memory.Abstractions.csproj" Id="b562be49-0eca-4fd2-8ec1-98aa87f08a88" />
+    <Project Path="src/CTI.AIDev.Memory/CTI.AIDev.Memory.csproj" Id="4540babc-79da-4cdc-bb97-3a5947a9c1c3" />
+    <Project Path="src/CTI.AIDev.ModelRegistry.Abstractions/CTI.AIDev.ModelRegistry.Abstractions.csproj" Id="900e5f67-5bcb-43bc-98a4-9850b0365266" />
+    <Project Path="src/CTI.AIDev.ModelRegistry/CTI.AIDev.ModelRegistry.csproj" Id="26e51ee4-12b9-4b5e-9a45-42884c7c28bc" />
+    <Project Path="src/CTI.AIDev.Orchestration.Abstractions/CTI.AIDev.Orchestration.Abstractions.csproj" Id="266b70d9-a8c9-4a7b-8aaf-0ae8ac07d255" />
+    <Project Path="src/CTI.AIDev.Orchestration/CTI.AIDev.Orchestration.csproj" Id="6ba1b172-04c8-4c69-a158-79c130978783" />
+    <Project Path="src/CTI.AIDev.Profiles.Abstractions/CTI.AIDev.Profiles.Abstractions.csproj" Id="c0a9607d-425f-4c67-a5ee-abff5fcaf77d" />
+    <Project Path="src/CTI.AIDev.Profiles/CTI.AIDev.Profiles.csproj" Id="d00359a2-9e3d-46e1-84d5-0b88d2d0fa5c" />
+    <Project Path="src/CTI.AIDev.Runtime.Abstractions/CTI.AIDev.Runtime.Abstractions.csproj" />
     <Project Path="src/CTI.AIDev.Runtime/CTI.AIDev.Runtime.csproj" />
+    <Project Path="src/CTI.AIDev.Tools.Abstractions/CTI.AIDev.Tools.Abstractions.csproj" Id="4db99fc6-4634-4580-bc60-d0fb51d6bb81" />
+    <Project Path="src/CTI.AIDev.Tools/CTI.AIDev.Tools.csproj" Id="3893970d-d63b-439d-b785-44d793152819" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/CTI.AIDev.Agents.Tests/CTI.AIDev.Agents.Tests.csproj" Id="99eaa00d-0087-4e9e-82d5-457fc8141141" />
+    <Project Path="tests/CTI.AIDev.Memory.Tests/CTI.AIDev.Memory.Tests.csproj" Id="3f6931cc-cb1e-41c1-877f-29a457582620" />
+    <Project Path="tests/CTI.AIDev.ModelRegistry.Tests/CTI.AIDev.ModelRegistry.Tests.csproj" Id="fb9ed47d-3041-4aab-a602-632f00ff62c9" />
+    <Project Path="tests/CTI.AIDev.Orchestration.Tests/CTI.AIDev.Orchestration.Tests.csproj" Id="d6161724-dc45-402c-bad9-2a8d956166f7" />
+    <Project Path="tests/CTI.AIDev.Profiles.Tests/CTI.AIDev.Profiles.Tests.csproj" Id="27cdadcd-a852-4e37-b847-a88d1541d9e2" />
     <Project Path="tests/CTI.AIDev.Runtime.Tests/CTI.AIDev.Runtime.Tests.csproj" Id="6ad2fe67-86f5-4617-a2ec-78489d65e738" />
+    <Project Path="tests/CTI.AIDev.Tools.Tests/CTI.AIDev.Tools.Tests.csproj" Id="31a3424d-b1ba-48e7-9a9a-21d9bd961d57" />
   </Folder>
 </Solution>

@@ -4,7 +4,7 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <RootNamespace>CTI.AIDev.Runtime</RootNamespace>
+    <RootNamespace>CTI.AIDev.UI</RootNamespace>
   </PropertyGroup>
 
 </Project>

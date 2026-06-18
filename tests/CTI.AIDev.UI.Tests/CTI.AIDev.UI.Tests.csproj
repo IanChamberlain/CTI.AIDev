@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <IsPackable>false</IsPackable>
-    <RootNamespace>CTI.AIDev.Profiles</RootNamespace>
+    <RootNamespace>CTI.AIDev.UI</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

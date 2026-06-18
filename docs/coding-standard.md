@@ -42,11 +42,11 @@ It ensures architectural purity, consistency, readability, and long‑term maint
 
 ### 1.6 Namespaces
 
-- Namespaces follow project and folder structure exactly.
+- Namespaces follow project and folder structure exactly of the implementation projects.
+- Abstraction and Test projects drop the `.Abstractions` and `.Tests` suffixes from their namespaces.
 - Format:  
-  - `CTI.AIDev.Runtime.Abstractions`  
-  - `CTI.AIDev.ModelRegistry.Internal`  
-- No “utility” or “common” namespaces.
+  - `CTI.AIDev.Runtime.<folder>` etc.
+  - `CTI.AIDev.ModelRegistry.<folder>.<folder>` etc.
 
 ---
 
